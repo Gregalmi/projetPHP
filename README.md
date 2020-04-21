@@ -3,6 +3,8 @@ Site web en html, css, javascript et php
 
 Site réalisé en groupe de 3 en 10 jours dans le cadre de ma formation.
 
+Je vous invite à lire le rapport de conception ainsi que le code.
+
 ## Enoncé :
 
 ### Objectifs :
