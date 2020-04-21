@@ -40,7 +40,8 @@ Réaliser un site permettant de gérer des recettes de cuisine (ou autre).
 - Les différentes interactions (accès aux pages et administration en général) entre l’utilisateur, l’administrateur et le site devront être sécurisées.
 - Les pages du backoffice devront être limités à certains rôles.
 - Il sera possible d’administrer les contenus.
-- Le site devra proposer au minimum 3 rubriques (pages / type de contenu).
+- Le site devra proposer au minimum 3 rubriques (pages / type de contenu).  
+
 **Base de données**  
 
 - Implémentation d’une gestion de contenu (à votre guise : des textes, articles, recettes, fiches, entités spécifiques, produits, messages, etc.)
