@@ -1,0 +1,188 @@
+
+/* /////////////////////JEU DE COULEURS ELEMENTS BOOTSTRAP///////////////////////////// */
+element{
+--colorWhite: #D5E5F2; 
+--colorGreen: #6E8C03; 
+--colorYellow: #F29F05; 
+--colorOrange: #F27405; 
+--colorRed: #F22613; 
+}
+
+.text-danger{
+    color:#F22613 !important;
+}
+.text-warning{
+    color:#F29F05 !important;
+}
+.text-primary{
+    color:#F27405 !important;
+}
+.text-success{
+    color:#6E8C03 !important;
+}
+
+.bg-primary{
+    background-color: #F27405 !important;
+}
+.bg-warning{
+    background-color: #F29F05 !important;
+}
+.bg-danger{ 
+    background-color: #F22613 !important;
+}
+.bg-success{ 
+    background-color: #6E8C03!important;
+}
+
+.btn-primary{
+    background-color: #F27405 !important;
+    border-color:#F27405 !important;
+}
+.btn-warning{
+    background-color: #F29F05 !important;
+    border-color:#F29F05 !important;
+}
+.btn-danger{ 
+    background-color: #F22613 !important;
+    border-color: #F22613 !important;
+}
+.btn-success{ 
+    background-color: #6E8C03!important;
+    border-color: #6E8C03!important;
+}
+
+.btn-outline-primary{
+    color: #F27405 !important;
+    border-color:#F27405 !important;
+}
+.btn-outline-warning{
+   color: #F29F05 !important;
+   border-color:#F29F05 !important;
+}
+.btn-outline-danger{ 
+   color: #F22613 !important;
+   border-color: #F22613 !important;
+}
+.btn-outline-success{ 
+    color: #6E8C03!important;
+    border-color: #6E8C03!important;
+}
+.btn-outline-primary:hover{
+    background-color: #F27405 !important;
+    border-color:#F27405 !important;
+    color: #D5E5F2 !important;
+}
+.btn-outline-warning:hover{
+    background-color: #F29F05 !important;
+    border-color:#F29F05 !important;
+    color: #D5E5F2!important;
+}
+.btn-outline-danger:hover{ 
+   background-color: #F22613 !important;
+   border-color: #F22613 !important;
+   color: #D5E5F2!important;
+}
+.btn-outline-success:hover{ 
+    background-color: #6E8C03!important;
+    border-color: #6E8C03!important;
+    color: #D5E5F2!important;
+}
+
+/* /////////////////////TOUS LES FICHIERS///////////////////////////// */
+
+main{
+    background-color: whitesmoke;
+    margin: 0;
+    overflow: hidden;
+}
+
+a:hover{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.active {
+    font-weight: bold;
+    color:#F29F05 !important;
+}
+
+/* /////////////////////ACCUEIL/RECETTES/APROPOS///////////////////////////// */
+
+.entete{
+    padding:7rem 0;
+    background-size: cover;
+}
+
+.template {
+    background-color: white ;
+    padding: 5% ;
+}
+
+
+
+.piedPage{
+    background-color: #6E8C03;
+    background-image: url("../galerie/fruit-4105723_1920.png"); 
+    padding:5rem 0;
+    background-size: cover;   
+}
+
+
+
+.enteteAccueil {
+    background-image: url("../galerie/people-2557401_1920.jpg"); 
+    background-position: top;
+}
+
+.enteteRecettes {
+    background-image: url("../galerie/paprika-3212148_1920.jpg"); 
+    background-position: initial;
+}
+
+.enteteApropos {
+    background-image: url("../galerie/grilled-vegetables-1387923_1280.jpg"); 
+    background-position: center;
+}
+.enteteMesRecettes {
+    background-image: url("../galerie/menu-3206749_1920.jpg"); 
+    background-position: initial;
+}
+
+/* /////////////////////CONTACT/LOGIN/INSCRIPTION///////////////////////////// */
+
+.backg{
+background-size: cover;
+background-position: center;
+padding:5rem 0;
+}
+
+.backgContact{
+    background-image: url("../galerie/iced-coffee-2305203_1920.jpg");    
+}
+
+.backgLogin{
+    background-image: url("../galerie/cookies-1372607_1920.jpg"); 
+}
+
+.card {
+    box-shadow: rgba(0, 0, 0, 0.308) 5px 5px 10px;
+    border-radius: 3%;
+}
+
+.card.texture{
+    background-color: rgba(255, 255, 255, 0.527);
+    padding:4rem;
+}
+
+/* /////////////////////404///////////////////////////// */
+
+.page404{
+    background-image: url("../galerie/matrix-356024_1920.jpg");
+    padding: 5% 15% ;
+
+}
+
+.card404{
+  background-color: rgba(0, 0, 0, 0.61)!important;
+  padding: 4rem;
+}
