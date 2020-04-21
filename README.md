@@ -41,7 +41,8 @@ Réaliser un site permettant de gérer des recettes de cuisine (ou autre).
 - Les pages du backoffice devront être limités à certains rôles.
 - Il sera possible d’administrer les contenus.
 - Le site devra proposer au minimum 3 rubriques (pages / type de contenu).
-**Base de données**
+**Base de données**  
+
 - Implémentation d’une gestion de contenu (à votre guise : des textes, articles, recettes, fiches, entités spécifiques, produits, messages, etc.)
 - Implémentation d’un formulaire de contact
 o Insérer les messages dans la base de données
@@ -49,20 +50,27 @@ o Insérer les messages dans la base de données
 o Inscription, avec validation par email peut être un plus
 o Connexion
 o Session PHP
-o Actions / Interactions avec le contenu
-**Serveur**
+o Actions / Interactions avec le contenu  
+
+**Serveur**  
+
 - Apache devra être installé (Sur Windows avec wamp par exemple)
 - Un vhost sera créé pour l’accès à votre site
 - Pour les points bonus : URL Rewrite et Cache sur les assets (fichiers CSS / JS)
-- Les fichiers (conf Apache + .htaccess) seront ajoutés en lecture sur le repository afin de simplifier l’accès par le correcteur.
-**Espace administration**
+- Les fichiers (conf Apache + .htaccess) seront ajoutés en lecture sur le repository afin de simplifier l’accès par le correcteur.  
+
+**Espace administration**  
+
 - Espace dédié pour administrer les contenus et les utilisateurs
 o Les articles, utilisateurs, messages, commentaires et autres entités du site.
 - Sécuriser l’espace administrateur en accès
 - Gestion de droits et de permissions avancées
-o Interdire en accès les pages admin
-**Interface**
+o Interdire en accès les pages admin  
+
+**Interface**  
+
 - Multi pages et présence d’un menu de navigation
 - Définir une charte graphique cohérente et ergonomique
 - Responsive design (adapté mobile par exemple)
-- Utilisation d’un framework CSS (optionnel)
+- Utilisation d’un framework CSS (optionnel)  
+
